@@ -1,0 +1,5 @@
+{"results":[
+{"seq":1,"id":"foo","changes":[{"rev":"1-65153d95a42628b65faf65d0dfefebfd"}]},
+{"seq":2,"id":"hello","changes":[{"rev":"1-2fb4ccb2986ffbe92f6f016b0888ae68"}]}
+],
+"last_seq":2}
