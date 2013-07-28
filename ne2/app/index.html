@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>OpenLayers3 and PouchDB</title>
+    <style>
+.map {
+  height: 400px;
+  width: 100%;
+}
+    </style>
+    <link rel="stylesheet" href="lib/ol.css" type="text/css" />
+  </head>
+  <body>
+    <h1>This is a test with OpenLayers3 and PouchDB</h1>
+    <p>The initial map is empty. When you replicated the dataset, reload the
+page and the tiles should show up.</p>
+    <button id="replicate">Replicate</button>
+    <button id="delete-database">Delete Database</button>
+    <button id="all-docs">Log all docs</button>
+    <div>
+      <div id="map" class="map"></div>
+    </div>
+    <div id="img_container"></div>
+    <p>The tiles were generated from
+<a href="http://www.naturalearthdata.com/downloads/10m-raster-data/10m-natural-earth-2/">Natural Earth</a>.</p>
+
+    <script type="text/javascript" src="lib/ol-whitespace.js"></script>
+    <script type="text/javascript" src="lib/pouchdb-nightly_20130728.js"></script>
+    <script type="text/javascript" src="lib/jquery-2.0.3.min.js"></script>
+
+    <script type="text/javascript" src="main.js"></script>
+  </body>
+</html>
