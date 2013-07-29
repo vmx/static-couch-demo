@@ -8,7 +8,6 @@
 {"seq":7,"id":"4","changes":[{"rev":"1-23a333ae19d47605a071d25e0d9130e3"}]},
 {"seq":8,"id":"4-1-9","changes":[{"rev":"1-565c6217c31af4593618ae43f2e43cd3"}]},
 {"seq":9,"id":"4-13-12","changes":[{"rev":"1-bbb1f5268e694c2d6be8372bc9ee4edf"}]},
-{"seq":10,"id":"4-13-13","changes":[{"rev":"1-5284c5fee472b78e28c4f6a14837fd2e"}]},
-{"seq":11,"id":"4-13-10","changes":[{"rev":"1-eca31be38bec8eac5362c6b64d36ba58"}]}
+{"seq":10,"id":"4-13-13","changes":[{"rev":"1-5284c5fee472b78e28c4f6a14837fd2e"}]}
 ],
-"last_seq":11}
+"last_seq":10}
